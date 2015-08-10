@@ -27,3 +27,6 @@
 *.out
 *.app
 RunWebGL
+
+# Fragment shader
+fragment.glsl
