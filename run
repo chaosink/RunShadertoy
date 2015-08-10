@@ -19,7 +19,7 @@ then
 	cat "$1" >> fragment.glsl
 else
 	echo "
-void mainImage( out vec4 fragColor, in vec2 fragCoord ) {
+void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 	discard;
 }" >> fragment.glsl
 fi
