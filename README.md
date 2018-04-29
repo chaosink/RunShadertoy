@@ -1,5 +1,5 @@
 # RunWebGL
-Run WebGL in desktop OpenGL.
+Run Shadertoy shaders in desktop OpenGL.
 
 Inspired by [shadertoy](https://www.shadertoy.com/) and [shadertoy-render](https://github.com/alexjc/shadertoy-render).
 
@@ -9,8 +9,8 @@ make
 ```
 
 ## Usage
-1. Copy WebGL codes on [shadertoy](https://www.shadertoy.com/) in a file, `shader.glsl` for example.
-2. Run the WebGL codes in desktop OpenGL:
+1. Copy a shader on [Shadertoy](https://www.shadertoy.com/) into a file, `shader.glsl` for example.
+2. Run the shader in desktop OpenGL:
 ```Shell
 ./run shader.glsl
 ```
