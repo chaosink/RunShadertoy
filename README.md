@@ -1,4 +1,4 @@
-# RunWebGL
+# RunShadertoy
 Run Shadertoy shaders in desktop OpenGL.
 
 Inspired by [shadertoy](https://www.shadertoy.com/) and [shadertoy-render](https://github.com/alexjc/shadertoy-render).
