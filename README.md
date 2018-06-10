@@ -26,16 +26,13 @@ or with specific resolution:
 
 ## Screenshots
 ["Seascape" by TDM](https://www.shadertoy.com/view/Ms2SD1)
-![1.png](./screenshots/1.png)
+![Seascape.png](./screenshots/Seascape.png)
 
 ["The Cornell Box" by h3r3](https://www.shadertoy.com/view/4ssGzS)
-![2.png](./screenshots/2.png)
+![The-Cornell-Box.png](./screenshots/The-Cornell-Box.png)
 
 ["Deform - flower" by iq](https://www.shadertoy.com/view/4dX3Rn)
-![3.png](./screenshots/3.png)
-
-["electron" by gopher](https://www.shadertoy.com/view/MslGRn)
-![4.png](./screenshots/4.png)
+![Deform - flower.png](./screenshots/Deform - flower.png)
 
 ["Bubbles" by iq](https://www.shadertoy.com/view/4dl3zn)
-![5.png](./screenshots/5.png)
+![Bubbles.png](./screenshots/Bubbles.png)

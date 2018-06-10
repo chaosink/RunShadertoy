@@ -31,4 +31,4 @@ void main() {
 
 echo running
 
-./RunWebGL $2 $3
+./RunShadertoy $2 $3
