@@ -32,7 +32,7 @@ or with specific resolution:
 ![The-Cornell-Box.png](./screenshots/The-Cornell-Box.png)
 
 ["Deform - flower" by iq](https://www.shadertoy.com/view/4dX3Rn)
-![Deform - flower.png](./screenshots/Deform - flower.png)
+![Deform - flower.png](./screenshots/Deform-flower.png)
 
 ["Bubbles" by iq](https://www.shadertoy.com/view/4dl3zn)
 ![Bubbles.png](./screenshots/Bubbles.png)
